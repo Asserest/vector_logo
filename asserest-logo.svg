@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!--Ah yeah, you cannot review this logo in GitHub directly-->
 
 <svg
    width="1000"
@@ -53,6 +54,7 @@
        style="font-size:192px;font-family:'Noto Sans HK';-inkscape-font-specification:'Noto Sans HK';white-space:pre;stroke-width:0.822481;fill-opacity:1;fill:url(#meshgradient4188)"
        d="M 159.11377,74.320401 127.11985,121.25707 86.278414,93.693895 75.755542,108.04082 l 41.350968,27.90682 -30.802774,45.18949 -21.816757,-37.56566 -8.583455,4.98471 24.202657,41.70675 h -0.001 0.0016 13.63431 l 34.216519,-46.99222 27.29756,18.42265 -2.24793,28.56957 h 22.94072 v -55.46044 c 5.99625,-13.8613 17.59305,-18.63913 32.73185,-18.50274 v -12.91033 c -15.02074,-0.0213 -26.13403,0.60372 -34.27232,13.08654 -0.7553,-13.71237 0.21677,-27.606495 0.97203,-42.155559 z m 0.63665,19.96829 c 0,0 -2.292,30.175679 -3.43493,46.672079 l -19.204,-12.96096 c 10.74025,-16.58848 22.63893,-33.711119 22.63893,-33.711119 z" />
   </g>
+   <!--That why it cannot render in GitHub-->
   <script
      id="mesh_polyfill"
      type="text/javascript">
